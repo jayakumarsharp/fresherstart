@@ -5,7 +5,8 @@ pageload();
 function callonclickevent() {
     var name = document.getElementById('name').value;
     alert(name);
-
+    console.log(name);
+    document.getElementById('displayname').innerHTML=name;
     console.log('called method');
     var a = 10;
     var b = 20;
