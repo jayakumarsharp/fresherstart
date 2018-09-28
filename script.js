@@ -2,6 +2,18 @@ function pageload(){
 document.getElementById("name").value = "Johnny Bravo";
 }
 pageload();
+
+
+
+
+
+
+
+
+
+
+
+
 function callonclickevent() {
     var name = document.getElementById('name').value;
     alert(name);
