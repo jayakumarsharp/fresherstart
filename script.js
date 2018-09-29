@@ -1,18 +1,7 @@
-function pageload(){
-document.getElementById("name").value = "Johnny Bravo";
+<!--function pageload(){
+    document.getElementById("name").value = "Johnny Bravo";
 }
 pageload();
-
-
-
-
-
-
-
-
-
-
-
 
 function callonclickevent() {
     var name = document.getElementById('name').value;
@@ -43,3 +32,9 @@ function callonclickevent2() {
 function callonclickevent3() {
     alert('you have clicked 3')
 }
+
+
+
+
+
+
