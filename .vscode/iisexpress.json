@@ -1,6 +1,6 @@
 {
-  "port": 20247,
-  "path": "d:\\Desktop\\Github\\fresherstart",
+  "port": 8000,
+  "path": "e:\\FresherStart\\Test\\fresherstart",
   "clr": "v4.0",
   "protocol": "http"
 }
