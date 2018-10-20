@@ -45,7 +45,7 @@ uid.focus();
 return false;
 }
 return true;
-}
+} 
 function passid_validation(passid,mx,my)
 {
 var passid_len = passid.value.length;
